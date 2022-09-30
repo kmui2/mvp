@@ -1,0 +1,23 @@
+token:
+
+# Filter messages by either username and role_id (not necessarily both) 
+filter:
+  username: MVPBot
+  role_id: 727634962219663483
+
+webooks:
+  hingdai:
+    url: 
+    username: Hingdai MVP Bot
+    avatar_url: https://cdn.discordapp.com/attachments/759302628940840980/920569746980753458/cute-robot-cat-vector-id1079767266.png
+    embed:
+      footer:
+        icon_url:
+        text:
+      thumbnail:
+        url:
+      author:
+        name:
+        icon_url:
+  raider:
+    url:
